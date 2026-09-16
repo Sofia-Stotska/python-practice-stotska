@@ -6,6 +6,7 @@ def main():
     print(f"Name: {name} {surname}")
     print(f"Group: {group}")
     print(f"Surname length: {len(surname)}")
+    print(f"Name length: {len(name)}")
 
 
 main()
