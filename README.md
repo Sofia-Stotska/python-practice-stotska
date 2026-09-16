@@ -9,3 +9,4 @@ Course: Python programming, semester 1
 - practice3 - development environment
 - practice4 - loops
 - practice5 - functions
+Email: sofia.stotska@example.com
